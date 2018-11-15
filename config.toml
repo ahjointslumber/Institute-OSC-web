@@ -1,0 +1,82 @@
+baseURL = "/"
+languageCode = "en-uk"
+title = "Deakin Open Research Network"
+theme = "timer-hugo"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "/about"
+        weight  = 2
+    #[[menu.nav]]
+    #    name    = "Service"
+    #    url     = "/service"
+    #    weight  = 3
+    #[[menu.nav]]
+    #    name    = "Gallery"
+    #    url     = "/gallery"
+    #    weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 3
+    #[[menu.nav]]
+    #    name    = "Contact"
+    #    url     = "/contact"
+    #    weight  = 4
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/deakin_spine.jpg"
+        heading = "WELCOME TO THE DEAKIN OPEN RESEARCH NETWORK"
+        description = "A hub for Open Researchers at Deakin University, Australia."
+        #btn     = true
+        #btnText = "Download More"
+        #btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "COMMUNITY"
+        [[params.banner.flipText]]
+            title   = "ADVOCACY"
+        [[params.banner.flipText]]
+            title   = "EDUCATION"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT THE NETWORK"
+        content = "Open Science and open research practices are growing in Australia, but discovering Open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at Deakin, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices."
+        image   = "images/about/Deakin.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = false
+        title   = "Do you want to know more?"
+        content = "Get in touch and help us grow this community further.</br>You might not be the only person in your division or faculty, let us know so we can start linking you with people in your area."
+        btnText = "Contact us"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Activities"
+        subtitle= "Want to talk or learn about open research? Check out some of our Activities."
+
+    # Feature Product Section
+    [params.feature]
+        enable  = false
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    

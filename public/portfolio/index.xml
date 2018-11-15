@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Deakin Open Research Network</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on Deakin Open Research Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Research Hacky Hour</title>
+      <link>/portfolio/hackyhour/</link>
+      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
+      
+      <guid>/portfolio/hackyhour/</guid>
+      <description>Hacky Hour Want to Open up your research practices but want some help? Do you have an idea for an R package and want some coding buddies? Are you struggling for a way to explain open data to your participants? Do you want to promote openness but don&amp;rsquo;t know how? Come and hang out with fellow travellers.
+This fortnightly catch up will give you an opportunity to chat with other open researchers and share ideas and projects.</description>
+    </item>
+    
+  </channel>
+</rss>

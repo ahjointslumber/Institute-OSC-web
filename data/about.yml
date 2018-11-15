@@ -1,0 +1,23 @@
+enable  : true
+title   : What is the Deakin Open Research Network?
+description: >
+  The Deakin Open Research Network is a collection of researchers and research-associated workers at Deakin University. It aims to facilitate the growth of Open practices by bringing together independently motivated and like-minded people, and providing a platform for the sharing of resources. 
+  </br></br>
+  Not sure if you're an open researcher? Coma along to some of our events, or <a href="https://docs.google.com/forms/d/e/1FAIpQLScRZaicYbBmHS-n3Dcc3T3cJKqbWXJdc6Hiyn3gI97EkpMe9g/viewform?usp=sf_link">fill in the survey</a> so we can link you up with some local friends. 
+  </br>
+  DORN is inspired by the <a href="https://openscience-utrecht.com/">Open Science Community Utrecht</a>.  
+  
+image   : images/about/mosn_sites.png
+aboutItem:
+  - title : What is Open Science
+    description: > 
+      Open science is a term describing a variety of practices directed at maximising the transparency of research, and ultimately leading to maximisation of public goods. These include: Open Access Publication, Open Data, Open Methodology, Open Source Software, Open educational resources & Open peer review.
+      
+
+#  - title : Where should I start?
+#    description: > 
+#      Check if there is an open science community at your workplace, and if not, fill in the survey. We might be able to help you start one! 
+#
+#  - title : Meet The Energy
+#    description: > 
+#      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
