@@ -1,13 +1,11 @@
 enable  : true
-title   : Network Executive
+title   : Interim Webmaster
 members  :
-  - name  : Mathew Ling
-    image : images/team/M_Ling_web.jpg
-    designation : Interim Co-ordinator
-    description : Mathew is a Lecturer in Psychology at Deakin University and is eager to share responsibility for MOSN with other like minded radicals. 
-    twitter     : https://www.twitter.com/lingtax
-    linkedIn    : https://www.linkedin.com/in/mathew-ling-940a5497/
-
+  - name  : Martin Bush
+    image : images/team/MBush_web.jpg
+    designation : Interim Webmaster
+    description : Martin is a Research Fellow in History and Philosophy of Science and a member of the IMeRG. 
+ 
   
 #  - name  : Jesmin Martina
 #    image : images/team/team-2.jpg

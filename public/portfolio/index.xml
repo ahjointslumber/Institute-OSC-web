@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Deakin Open Research Network</title>
+    <title>Portfolios on The University of Melbourne Open Research Network</title>
     <link>/portfolio/</link>
-    <description>Recent content in Portfolios on Deakin Open Research Network</description>
+    <description>Recent content in Portfolios on The University of Melbourne Open Research Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 12 Jul 2018 16:54:54 +0600</lastBuildDate>
@@ -12,13 +12,22 @@
     
     
     <item>
-      <title>Open Research Hacky Hour</title>
-      <link>/portfolio/hackyhour/</link>
+      <title>2019 Australasian Meta-Research and Open Science Meeting</title>
+      <link>/portfolio/20190907aimos/</link>
       <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
       
-      <guid>/portfolio/hackyhour/</guid>
-      <description>Hacky Hour Want to Open up your research practices but want some help? Do you have an idea for an R package and want some coding buddies? Are you struggling for a way to explain open data to your participants? Do you want to promote openness but don&amp;rsquo;t know how? Come and hang out with fellow travellers.
-This fortnightly catch up will give you an opportunity to chat with other open researchers and share ideas and projects.</description>
+      <guid>/portfolio/20190907aimos/</guid>
+      <description>2019 Australasian Meta-Research and Open Science Meeting The IMeRG at the University of Melbourne will be hosting the 2019 Australasian Meta-Research and Open Science Meeting.
+We welcome interested students and researchers to join us for two days of workshops, hackathons, and presentations about a broad range of open science and scientific reform topics, including: pre-registration and Registered Reports; peer review and scientific publishing; using R for analysis; open source experimental programming; meta-research; replicability; improving statistical and scientific inference; diversity in scientific community and practice; and methodological and scientific culture change.</description>
+    </item>
+    
+    <item>
+      <title>Brian Nosek Seminar</title>
+      <link>/portfolio/20190000nosekseminar/</link>
+      <pubDate>Thu, 12 Jul 2018 16:54:54 +0600</pubDate>
+      
+      <guid>/portfolio/20190000nosekseminar/</guid>
+      <description>Brian Nosek seminar Brian Nosek, of the Open Science Foundation, will present a seminar at the University of Melbourne early in 2019. The details and dates are yet to be announced, but keep an eye on the IMeRG website</description>
     </item>
     
   </channel>

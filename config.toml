@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "Deakin Open Research Network"
+title = "The University of Melbourne Open Research Network"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -21,10 +21,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     #    name    = "Gallery"
     #    url     = "/gallery"
     #    weight  = 4
-    [[menu.nav]]
-        name    = "Blog"
-        url     = "/blog"
-        weight  = 3
+    #[[menu.nav]]
+    #    name    = "Blog"
+    #    url     = "/blog"
+    #    weight  = 3
     #[[menu.nav]]
     #    name    = "Contact"
     #    url     = "/contact"
@@ -33,15 +33,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo.png"
+    logo = "images/logo_UoM.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "images/deakin_spine.jpg"
-        heading = "WELCOME TO THE DEAKIN OPEN RESEARCH NETWORK"
-        description = "A hub for Open Researchers at Deakin University, Australia."
+        bgImage = "images/ArtsWest_UoM.jpg"
+        heading = "WELCOME TO THE UNIVERSITY OF MELBOURNE OPEN RESEARCH NETWORK"
+        description = "A hub for Open Researchers at The University of Melbourne, Australia."
         #btn     = true
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
@@ -56,8 +56,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "ABOUT THE NETWORK"
-        content = "Open Science and open research practices are growing in Australia, but discovering Open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at Deakin, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. <br>We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices."
-        image   = "images/about/Deakin.png"
+        content = "Open Science and open research practices are growing in Australia, but discovering Open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at The University of Melbourne, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices. A founding node of this network at The University of Melbourne is the Interdisciplinary MetaResearch Group (IMeRG)."
+        image   = "images/about/UoM.png"
 
     # Call to Action
     [params.cta]
@@ -70,8 +70,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "Activities"
-        subtitle= "Want to talk or learn about open research? Check out some of our Activities."
+        title   = "Events"
+        subtitle= "Want to talk or learn about open research? Check out some of our Events."
 
     # Feature Product Section
     [params.feature]
