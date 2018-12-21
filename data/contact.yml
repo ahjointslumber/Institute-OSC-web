@@ -1,7 +1,7 @@
 enable  : true
 contactFormTitle    : CONTACT US
-contactFormSubtitle : >
-  While it's probably easier to contact us via twitter, feel free to drop us a line here if you're not active there. 
+contactFormSubtitle : 
+  If you would like to know more about Open Research activities at the University of Melbourne, please contact <a href="https://imerg.info/people/" target=new>any member of the IMeRG</a>, or fill out <a href="https://docs.google.com/forms/d/e/1FAIpQLScRZaicYbBmHS-n3Dcc3T3cJKqbWXJdc6Hiyn3gI97EkpMe9g/viewform?usp=sf_link">this survey</a>. 
 #mapTitle    : FIND US
 #mapSubtitle : >
 #  Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis, nostrud eram quibusdam ad nam nostrud ubi.

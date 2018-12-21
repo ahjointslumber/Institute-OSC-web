@@ -33,14 +33,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # Site Params
 [params]
     home = "Home"
-    logo = "images/logo_UoM.png"
+    logo = "images/UoM_weblogo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
     [params.banner]
         enable  = true
         bgImage = "images/ArtsWest_UoM.jpg"
-        heading = "WELCOME TO THE UNIVERSITY OF MELBOURNE OPEN RESEARCH NETWORK"
+        heading = "WELCOME TO THE UNIVERSITY OF MELBOURNE OPEN RESEARCH COMMUNITY"
         description = "A hub for Open Researchers at The University of Melbourne, Australia."
         #btn     = true
         #btnText = "Download More"
@@ -55,14 +55,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT THE NETWORK"
+        title   = "ABOUT THE COMMUNITY"
         content = "Open Science and open research practices are growing in Australia, but discovering Open reviewing, pre-prints, computational reproducibility etc. can feel like an isolating experience. This is a collective which aims to promote open practices at The University of Melbourne, to build a sense of community amongst people who might otherwise feel like the only open scientists they know. We aim to help you find like-minded folks, promote learning (not judgement), support efforts to reform institutional policies and practices, and educate others about open research practices. A founding node of this network at The University of Melbourne is the Interdisciplinary MetaResearch Group (IMeRG)."
         image   = "images/about/UoM.png"
 
-    # Call to Action
-    [params.cta]
+    # Contact
+    [params.contact]
         enable  = false
-        title   = "Do you want to know more?"
+        title   = "Contact"
         content = "Get in touch and help us grow this community further.</br>You might not be the only person in your division or faculty, let us know so we can start linking you with people in your area."
         btnText = "Contact us"
         btnURL  = "/contact"
