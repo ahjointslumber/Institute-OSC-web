@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-uk"
-title = "The University of Melbourne Open Research Network"
+title = "The University of Melbourne Open Research Community"
 theme = "timer-hugo"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -41,7 +41,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         enable  = true
         bgImage = "images/ArtsWest_UoM.jpg"
         heading = "WELCOME TO THE UNIVERSITY OF MELBOURNE OPEN RESEARCH COMMUNITY"
-        description = "A hub for Open Researchers at The University of Melbourne, Australia."
+        description = "A hub for Open Researchers at the University of Melbourne, Australia."
         #btn     = true
         #btnText = "Download More"
         #btnURL  = "https://themefisher.com/"
